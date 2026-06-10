@@ -4,7 +4,7 @@
 
 Ferns performs symmetric cryptography using Fernet. By placing accessible encryption into the hands of the user, Ferns attempts to address the issue of communicating over networks that may be watched by an adversary.
 
-![Ferns demo](assets/ferns.gif)
+<video src="assets/ferns_test.mp4" autoplay loop muted playsinline width="640"></video>
 
 ## Usage
 
