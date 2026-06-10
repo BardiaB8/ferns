@@ -20,7 +20,7 @@ To change the width of the Jot window, right-click and hold the drag icon. The w
 
 To clear the message entry, right-click the message icon.
 
-Clicking on the attack button allows you to encrypt a file. To decrypt a file, right-click the attach button.
+Clicking on the attach button allows you to encrypt a file. To decrypt a file, right-click the attach button.
 
 ## Dependencies
 
