@@ -12,6 +12,16 @@ Random keys can be created using `createKey.py`, but it is recommended to use `k
 
 To use `ferns.py`, you first need a key, which must be securely exchanged with the person you're communicating with. Anyone with a key can decrypt messages encrypted with it. To decrypt messages, select a message and press `Ctrl+.`.
 
+### Secondary actions
+
+This is called the Jot window: ![](assets/jot_window.png)
+
+To change the width of the Jot window, right-click and hold the drag icon. The width of the window will change with the movement of the mouse.
+
+To clear the message entry, right-click the message icon.
+
+Clicking on the attack button allows you to encrypt a file. To decrypt a file, right-click the attach button.
+
 ## Dependencies
 
 `pip install cryptography pynput spake2`
