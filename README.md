@@ -25,3 +25,7 @@ Clicking on the attack button allows you to encrypt a file. To decrypt a file, r
 ## Dependencies
 
 `pip install cryptography pynput spake2`
+
+## Icons
+
+Icons by icons8.com
